@@ -26,7 +26,7 @@ https://www.apachefriends.org/download.html
 
 ### 🅱️ Then Download This Zip File
 
-- [Script Zip](https://github.com/yuvraj824/zee5/archive/refs/heads/main.zip) </br>
+- [Script Zip](https://github.com/yuvraj824/zee5-live-channels/archive/refs/heads/main.zip) </br>
 
 1. Extract all files into the `htdocs` under `zee5` folder in localhost.</br> 
 ```bash
