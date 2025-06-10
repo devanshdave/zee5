@@ -1,0 +1,12 @@
+{
+  "routes": [
+    {
+      "src": "/api/(.*)",
+      "dest": "https://www.zee5.com/api/$1"
+    },
+    {
+      "src": "/(.*)",
+      "dest": "/index.html"
+    }
+  ]
+}
